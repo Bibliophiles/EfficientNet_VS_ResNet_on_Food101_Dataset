@@ -4,10 +4,10 @@ This project compares two powerful convolutional neural network architectures �
 
 ## 📊 Comparison Table
 
-| Model            | Test Accuracy | Test Loss | Parameters (Approx.) |
-|------------------|---------------|-----------|------------------------|
-| ResNet50         | 0.8368        |**0.5294** | ~23.5 million          |
-| EfficientNetB0   | **0.8616**    |  0.5465   | **~5.0 million**       |
+| Model            | Test Accuracy | Test Loss | Parameters (Approx.) | Number of Epochs |
+|------------------|---------------|-----------|------------------------|----------------|
+| ResNet50         | 0.8368        |**0.5294** | ~23.5 million          |     5          |
+| EfficientNetB0   | **0.8616**    |  0.5465   | **~5.0 million**       |     5          |
 
 ## ✅ Summary
 
